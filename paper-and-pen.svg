@@ -1,0 +1,31 @@
+<!--
+  SPDX-License-Identifier: Apache-2.0
+  Copyright 2026 FlexiAtom
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -12 124 124" width="256" height="256" role="img" aria-label="纸笔图标">
+  <path d="M 75 0
+           L 10 0
+           A 10 10 0 0 0 0 10
+           L 0 90
+           A 10 10 0 0 0 10 100
+           L 90 100
+           A 10 10 0 0 0 100 90
+           L 100 25"
+        fill="none" stroke="#33414F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M 17.678 82.322 L 104.419 -4.419"
+        fill="none" stroke="#33414F" stroke-width="8" stroke-linecap="round"/>
+</svg>
+
