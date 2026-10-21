@@ -1,0 +1,40 @@
+<!--
+  SPDX-License-Identifier: Apache-2.0
+  Copyright 2026 FlexiAtom
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="256" height="256" role="img" aria-label="软盘图标">
+  <defs>
+    <linearGradient id="fdBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#43617C"/>
+      <stop offset="1" stop-color="#1F2E3A"/>
+    </linearGradient>
+    <linearGradient id="fdMetal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0"    stop-color="#EDF1F5"/>
+      <stop offset="0.45" stop-color="#B4C0CA"/>
+      <stop offset="1"    stop-color="#8794A0"/>
+    </linearGradient>
+    <radialGradient id="fdHub" cx="0.34" cy="0.28" r="0.85">
+      <stop offset="0" stop-color="#F4F7FA"/>
+      <stop offset="1" stop-color="#96A3AE"/>
+    </radialGradient>
+  </defs>
+
+  <path d="M 25 0 L 92 0 A 8 8 0 0 1 100 8 L 100 92 A 8 8 0 0 1 92 100
+           L 8 100 A 8 8 0 0 1 0 92 L 0 25 Z" fill="url(#fdBody)"/>
+
+  <rect x="31.25" y="6.25" width="62.5" height="25" rx="1.5" fill="url(#fdMetal)"/>
+
+  <circle cx="50" cy="66.667" r="25" fill="url(#fdHub)"/>
+</svg>
