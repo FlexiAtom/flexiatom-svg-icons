@@ -5,6 +5,7 @@
 ## 图标列表
 
 - `floppy-disk.svg` — 软盘图标
+- `paper-and-pen.svg` — 纸笔图标
 
 ## 许可证
 
